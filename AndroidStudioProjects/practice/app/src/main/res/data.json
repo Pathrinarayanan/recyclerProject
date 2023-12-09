@@ -1,0 +1,44 @@
+{
+  "widgets": [
+    {
+      "widget_title": "Item : 1",
+      "widget_type": "text"
+    },
+    {
+      "widget_title": "",
+      "widget_type": "image"
+    },
+    {
+      "widget_title": "Item : 3",
+      "widget_type": "text"
+    },
+    {
+      "widget_title": "",
+      "widget_type": "image"
+    },
+    {
+      "widget_title": "Item : 5",
+      "widget_type": "text"
+    },
+    {
+      "widget_title": "",
+      "widget_type": "image"
+    },
+    {
+      "widget_title": "Item : 7",
+      "widget_type": "text"
+    },
+    {
+      "widget_title": "",
+      "widget_type": "image"
+    },
+    {
+      "widget_title": "Item : 9",
+      "widget_type": "text"
+    },
+    {
+      "widget_title": "",
+      "widget_type": "image"
+    }
+  ]
+}
